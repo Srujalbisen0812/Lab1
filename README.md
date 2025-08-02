@@ -1,2 +1,3 @@
 # Lab1
-ArrayList Code
+My self Srujal Bisen..
+This is code of ArrayList.
