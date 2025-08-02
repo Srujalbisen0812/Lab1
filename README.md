@@ -1,2 +1,2 @@
 # Lab1
-ArrayList CodeS
+ArrayList Code
