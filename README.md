@@ -1,3 +1,3 @@
 # Lab1
-My self Srujal Bisen..
+Myself Srujal Bisen..
 This is code of LinkedList.
